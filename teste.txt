@@ -1,2 +1,9 @@
 Nome: Roger Eij Menezes Ikeda	
 Ra: 1801744
+cd nome-pasta
+dir
+cd..
+cd\
+cls
+md nome-pasta
+git clone url
