@@ -1,9 +1,15 @@
 Nome: Roger Eij Menezes Ikeda	
 Ra: 1801744
-cd nome-pasta
-dir
+cd nome-pasta    
+dir            
 cd..
-cd\
-cls
-md nome-pasta
+cd\  fecha todas as pastas
+cls  limpa a tela
+md nome-pasta criar pasta
 git clone url
+git add . adicionar os arquivos
+git commit -m ""  Cria rótulo
+git config --gloal user.name="7RogerIkeda"
+git config --gloal user.name="eijirookies@gmail.com"
+git push  envia os arquivos para Web	
+git pull atualizar a pasta dados
